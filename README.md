@@ -1,2 +1,7 @@
-# simulation-FARDL
-Monte Carlo simulation codes for evaluating and comparing the performance of ARDL, FARDL-LP, and FARDL-QP estimators under different sample sizes and error variance levels.
+# Monte Carlo Simulation
+
+R source codes for evaluating the performance of LP and QP estimators in FARDL models through Monte Carlo simulation.
+
+**Researcher:** Sulaiman Hussien Jawad  
+**Supervisor:** Prof. Munaf Yousif Hmood  
+**University of Baghdad**
